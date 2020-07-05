@@ -1,5 +1,5 @@
 var event, ok, goal = 0;
-
+ 
 do {
     ok = false;
     event = +prompt(mill.a00 + mill.a1 + mill.a2 +
